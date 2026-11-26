@@ -1,6 +1,9 @@
 # Cryptocurrency Portfolio Dashboard
 ### Financial Analysis | Data Visualization | Microsoft Excel
 
+
+![](https://github.com/molnrjanos/cryptocurrency_portfolio/blob/main/images/Crypto%20Dashboard%201.png)
+
 ## About the Project
 
 I created this dashboard to bring different aspects of cryptocurrency portfolio management together in one place. My goal was to make financial and market information easier to follow, understand, and compare through a clear and visually engaging layout.
